@@ -10,3 +10,6 @@ From github
 * git commit -a
 	- add comment
 * git push
+
+
+git status -> to check if both are up to date
